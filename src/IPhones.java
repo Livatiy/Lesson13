@@ -1,4 +1,4 @@
-public class IPhones implements Smartphones, iOS {
+public class IPhones implements Smartphones, IOS {
     @Override
     public void call() {
 
